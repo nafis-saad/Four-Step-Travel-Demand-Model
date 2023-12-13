@@ -1,10 +1,8 @@
-SEMCOG
+Sacramento 
 ======
 
-[UrbanSim2][] implementation for [SEMCOG][].
+[TransCAD 9.0][] implementation for [CALIPER][].
 
-[SEMCOG 2045 forecast][].
+[Travel Demand Modelling][].
 
-[UrbanSim2]: https://github.com/synthicity/urbansim
-[SEMCOG]: http://www.semcog.org/
-[SEMCOG 2045 forecast]: https://maps.semcog.org/forecast/
+
