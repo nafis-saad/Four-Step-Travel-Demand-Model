@@ -1,2 +1,10 @@
-# Four-Step-Travel-Demand-Model
-TransCAD, Arc-GIS Pro, Arcpy and Python.. Four step modelling for Sacramento Region
+SEMCOG
+======
+
+[UrbanSim2][] implementation for [SEMCOG][].
+
+[SEMCOG 2045 forecast][].
+
+[UrbanSim2]: https://github.com/synthicity/urbansim
+[SEMCOG]: http://www.semcog.org/
+[SEMCOG 2045 forecast]: https://maps.semcog.org/forecast/
